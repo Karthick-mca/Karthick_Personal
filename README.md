@@ -9,13 +9,4 @@ Let's build something amazing together! View my repositories to see samples of m
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karthitech.mca22@gmail.com)
 
 ## Check out! My Projects
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-[Repository Name](https://github.com/your_username/your_repository_name)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-[Repository Name](https://github.com/your_username/your_repository_name)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-[Repository Name](https://github.com/your_username/your_repository_name)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-[Repository Name](https://github.com/your_username/your_repository_name)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-[Repository Name](https://github.com/your_username/your_repository_name)
+[![Project 1](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your_username/your_repository_name)
